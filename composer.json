@@ -1,0 +1,15 @@
+{
+    "name": "alirezax5/navasan",
+    "autoload": {
+        "psr-4": {
+            "Alirezax5\\Navasan\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alirezax5",
+            "email": "alirezaaghax6@gmail.com"
+        }
+    ],
+    "require": {}
+}
